@@ -1,5 +1,7 @@
 # Mod 0 Paired Challenge
 
+This challenge should be completed collaboratively with a partner. One repo should be submitted per pair. 
+
 ## Setup
 
 Fork and clone this repository.
